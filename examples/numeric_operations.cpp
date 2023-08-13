@@ -1,4 +1,4 @@
-#include "uwu_defines.h"
+#include "uwu.h"
 
 int main() {
     int x = 5;
