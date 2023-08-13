@@ -2,7 +2,7 @@
    <h1 align="center">UwU++ Programming Language</h1>
 </div>
 
-![UwU++ Logo](/.github/images/9bbe5701-fe89-4fdb-ab48-eaf52b0265f2.png)
+![UwU++ Logo](./.github/images/9bbe5701-fe89-4fdb-ab48-eaf52b0265f2.png)
 
 Welcome to the UwU++ programming language repository! UwU++ is a custom programming language designed for fun and experimentation.
 
@@ -32,16 +32,16 @@ Welcome to the UwU++ programming language repository! UwU++ is a custom programm
 
 ## Examples
 
-Check out the [`examples`](/tree/main/examples) directory for example code snippets demonstrating different features of UwU++.
+Check out the [`examples`](./examples) directory for example code snippets demonstrating different features of UwU++.
 
 ## Documentation
-- [Design Documentation](/tree/main/docs/design.md): Detailed design and architecture information.
-- [Usage Instructions](/tree/main/docs/usage.md): How to use UwU++ for your projects.
+- [Design Documentation](./docs/design.md): Detailed design and architecture information.
+- [Usage Instructions](./docs/usage.md): How to use UwU++ for your projects.
 
 
 ## Testing
 
-Unit tests are available in the [`tests`](/tree/main/tests) directory. You can compile and run them using your preferred testing framework.
+Unit tests are available in the [`tests`](./tests) directory. You can compile and run them using your preferred testing framework.
 
 
 ## Contributing
