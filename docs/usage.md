@@ -37,4 +37,4 @@ To understand the capabilities of UwU++, take a look at the example code snippet
 
 ## Contributing
 
-UwU++ is open to contributions from the community. If you have ideas for new defines, improvements, or bug fixes, feel free to submit a pull request. Please follow the guidelines in the [CONTRIBUTING](./CONTRIBUTING.md) document.
+UwU++ is open to contributions from the community. If you have ideas for new defines, improvements, or bug fixes, feel free to submit a pull request. Please follow the guidelines in the [CONTRIBUTING](../CONTRIBUTING.md) document.
