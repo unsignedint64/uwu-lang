@@ -12,28 +12,27 @@
 #define ewwow std::cerr
 #define stwing std::string
 #define wead int
-#define doubwe doubwe
+#define doubwe double
 #define vectow std::vector
 #define owo <<
 #define uvu >>
 #define w_w_wetuwn return
 #define stwuct struct
-#define cwass cwass
-#define pubwic pubwic
-#define pwivate pwivate
-#define pwotected pwotected
+#define cwass class
+#define pubwic public
+#define pwivate private
+#define pwotected protected
 #define fow for
-#define fow_each for each
 #define static static
 #define const const
 #define void void
 #define int int
-#define doubwe doubwe
-#define chaw chaw
-#define stw stw
+#define chaw char
+#define stw str
 #define newwine "\n"
 #define semicowon ;
 #define eqw ==
+#define stawt int main
 #define pwint_fowmat(fmt, ...) std::printf(fmt, ##__VA_ARGS__)
 #define uwu_incincrement(val) (++val)
 #define uwu_decrement(val) (--val)
