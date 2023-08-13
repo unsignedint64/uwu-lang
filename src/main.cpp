@@ -5,34 +5,46 @@
 #include <vector>
 #include "uwu.h"
 
-int main() {
-    wog owo "Hewwo, UwU++!" owo endw;
+$() {
+    wog << "Hewwo, wowwd!" << endw;
 
-    stwing message = "This is a custom programming wanguage OwO++";
-    wog owo "Message: " owo message owo endw;
+    int num1 = 42;
+    int num2 = 17;
 
-    wead num = 42;
-    wog owo "Number: " owo num owo endw;
+    wog << "num1: " owo num1 owo ", num2: " owo num2 owo endw;
 
-    vectow<int> nums = { 1, 2, 3, 4, 5 };
-    wog owo "Vector:";
-    fow(int i = 0; i < nums.size(); ++i) {
-        wog owo " " owo nums[i];
+    ewwow_msg("Something went wrong!");
+
+    stwing text = "This is a stwing!";
+    wog << "Text: " owo text owo endw;
+
+    doubwe pi = 3.14159;
+    wog << "Pi: " owo pi owo endw;
+
+    vectow<int> numbers = {1, 2, 3, 4, 5};
+    fow_each(numbers, num) {
+        wog << num << " ";
     }
-    wog owo endw;
+    wog << endw;
 
-    stwuct Pwintew{
-        stwing name;
-        int page_count;
+    int x = 10;
+    int y = 5;
+    wog << "Max of x and y: " owo max(x, y) owo endw;
+    wog << "Min of x and y: " owo min(x, y) owo endw;
+
+    stwuct MyStwuct {
+        int va1;
+        doubwe va2;
     };
 
-    Pwintew my_pwintew = { "Inkjet 9000", 100 };
-    wog owo "Pwintew: " owo my_pwintew.name owo ", Pages: " owo my_pwintew.page_count owo endw;
+    cwass MyCwass {
+    pubwic:
+        int pubwicVaw;
+    pwivate:
+        int pwivateVaw;
+    pwotected:
+        int pwotectedVaw;
+    };
 
-    int x = 5;
-    int y = 8;
-    pwint_fowmat("Max of %d and %d is %d\n", x, y, uwu_max(x, y));
-    wog owo "Squawe of " owo x owo " is " owo uwu_squawe(x) owo endw;
-
-    w_w_wetuwn 0;
+    wetuwn 0;
 }
