@@ -28,8 +28,8 @@ g++ main.cpp -o uwu
 UwU++ introduces a variety of custom defines that allow you to code in a unique and expressive style. Some of the key features include:
 
 - `wog` and `endw` for printing with line breaks
-- Mathematical operations like `uwu_max` and `uwu_min`
-- Conditional constructs like `uwu_even` and `uwu_odd`
+- Mathematical operations like `max` and `min`
+- Conditional constructs like `even` and `odd`
 
 ## Example Code
 
