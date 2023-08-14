@@ -1,5 +1,5 @@
-#ifndef UWU_DEFINES_H
-#define UWU_DEFINES_H
+#ifndef uwu
+#define uwu
 
 #include <iostream>
 #include <string>
@@ -113,5 +113,7 @@
 #define xow xor
 #define xow_eq xor_eq
 #define awignyas alignas
+#define awignof alignof
 
-#endif // UWU_DEFINES_H
+
+#endif
