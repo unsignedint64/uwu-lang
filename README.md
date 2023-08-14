@@ -24,24 +24,7 @@ Welcome to the UwU++ programming language repository! UwU++ is a custom programm
 
 ## Getting Started
 
-1. Clone the repository:
-
-```sh
-   $ git clone https://github.com/unsignedint64/uwu-lang.git
-```
-
-2. Navigate to the src/ directory:
-
-```sh
-  $ cd uwu-lang/src/
-```
-
-3. Compile and run the code:
-
-```sh
-  $ g++ main.cpp -o uwu
-  $ ./uwu
-```
+To get started please read the [usage instructions](./docs/usage.md#getting-started) in the documentation.
 
 ## Examples
 
