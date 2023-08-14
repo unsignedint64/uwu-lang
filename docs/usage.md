@@ -19,8 +19,7 @@ cd uwu-lang/src/
 3. Compile and run your UwU++ code:
 
 ```bash
-g++ main.cpp -o uwu
-./uwu
+../scripts/build.sh main.cpp
 ```
 
 ## Key Features
