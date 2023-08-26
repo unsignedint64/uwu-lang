@@ -57,8 +57,9 @@ This project is licensed under the [GNU General Public License v3.0](https://www
 
 <td align="center"><a href="https://github.com/win10Device"><img src="https://avatars.githubusercontent.com/u/44788187" width="100px;" alt="win10Device" style="border-radius: 50%;"/><br /><sub><b>win10Device</b></sub></a><br /></td>
 </td>
-<td align="center"><a href="https://discord.gg/A424wqRnwb"><img src="./.github/sponsers/a_2edc37db931554cc5eac1154aec69d86.webp" width="100px;" alt="Sleepcore" style="border-radius: 50%;"/><br /><sub><b>Sleepcore</b></sub></a><br /></td>
+<td align="center"><a href="https://discord.gg/A424wqRnwb"><img src="./.github/sponsers/a_2edc37db931554cc5eac1154aec69d86.webp" width="100px;" alt="Sleepcore" style="border-radius: 50%;"/><br /><sub><b>Sleepycore</b></sub></a><br /></td>
 </td>
+<td align="center"><a href="https://github.com/LabsStar/goddess-anime"><img src="./.github/sponsers/ab5ea710427a26ab823ead2cdedab564.png" width="100px;" alt="Goddess Anime" style="border-radius: 50%;"/><br /><sub><b>Goddess Anime</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
